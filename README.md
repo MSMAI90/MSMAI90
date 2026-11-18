@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, I'm Mabkhot Shamsan
 
-<!--
-**MSMAI90/MSMAI90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm a Computer Science undergraduate student at **Jazan University**.
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Cloud Computing.
+- 🌱 Currently learning and exploring Python, Java, and modern development tools.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, Java
+- **Database & Math:** Relational Databases, Statistics, Linear Algebra, Discrete Mathematics
+- **Tools & Environments:** Git, GitHub, Linux, VS Code, Google Colab
+
+---
+
+### 📊 GitHub Stats
+![Mabkhot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSMAI90&show_icons=true&theme=radical)
